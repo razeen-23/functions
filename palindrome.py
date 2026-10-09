@@ -10,4 +10,4 @@ def is_palindrome(num):
     return original == rev
 
 n = int(input("Enter a number: "))
-print(is_palindrome(n))
+print(is_palindrome(n)) 
